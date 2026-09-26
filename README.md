@@ -229,7 +229,7 @@ The visual design combines retail branding with analytical elements to create a 
 The repository is organized to keep the dataset, Power BI report, background assets, and dashboard screenshots separated and easy to access.
 
 ```text
-Gopuff-Retail-Sales-Analytics-PowerBI/
+Retail-Sales-Analytics-PowerBI/
 │
 ├── README.md
 │
@@ -237,7 +237,7 @@ Gopuff-Retail-Sales-Analytics-PowerBI/
 │   └── dataset.csv
 │
 ├── PowerBI/
-│   └── Retail_Sales_Analytics.pbix
+│   └── Retail.pbix
 │
 ├── Background/
 │   └── dashboard_background.png
